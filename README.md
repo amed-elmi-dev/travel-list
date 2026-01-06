@@ -1,4 +1,4 @@
-# 05-travel-list — Far Away 💼🏝️
+# travel-list — Far Away 💼🏝️
 
 A simple React + Vite app to build and manage a travel packing list. Add items (with quantity), toggle packed status, sort items, delete entries, clear the whole list, and view packing stats.
 
